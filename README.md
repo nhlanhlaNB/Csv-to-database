@@ -5,4 +5,4 @@ CSV to Database parsing
 Change the details on index.js of your database to fit your database setup details
 
 # Tips
-First create the database on sql studio and then come to import the data from this csv using the script
+First create a Mysql database(munually) and then come to import the data from this csv using the script
